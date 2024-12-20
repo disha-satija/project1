@@ -1,4 +1,3 @@
 #New Project
-
-
-This porject was created from Local system
+This project was created from Local system.
+Created by Disha Satija 
